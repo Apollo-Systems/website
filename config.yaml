@@ -1,6 +1,6 @@
-baseURL: http://something-fresh.org/
+baseURL: https://apollo.systems/
 languageCode: en-us
-title: Hugo Fresh Theme
+title: Apollo Systems
 theme: hugo-fresh
 googleAnalytics: # Put in your tracking code without quotes like this: UA-XXXXXX...
 # Disables warnings
@@ -19,14 +19,14 @@ params:
   description: 
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/apollo-systems-black-white.png
+    image: logos/apollo-systems-text.png
     link: /
   font:
     name: "Open Sans"
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Kubernetes and cloud native solutions.
+    title: Kubernetes and cloud native expertise.
     # Hero subtitle (optional)
     #subtitle: Lorem ipsum sit dolor amet is dummy text used by the typography industry
     # Button text
@@ -34,7 +34,7 @@ params:
     # Where the main hero button links to
     buttonlink: "mailto:contact@apollo.systems"
     # Hero image (from static/images/___)
-    image: illustrations/worker.svg
+    image: illustrations/server_cluster.svg
     # Footer logos (from static/images/logos/clients/___.svg)
     #clientlogos:
     #- systek
